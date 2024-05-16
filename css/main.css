@@ -9551,6 +9551,7 @@ a:hover, a:focus {
   position: relative;
   padding: 40px 0;
   z-index: 2;
+  font-weight: 500;
 }
 
 @media (min-width: 992px) {
