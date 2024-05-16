@@ -238,7 +238,7 @@
 }
 
 .demo__subtitle--black {
-  color: #000000;
+  color: #333132;
 }
 
 .demo__row {
@@ -540,7 +540,7 @@
   font-weight: 500;
   text-transform: uppercase;
   text-align: center;
-  border-top: 1px solid #000000;
+  border-top: 1px solid #333132;
   padding-top: 15px;
   margin-top: 15px;
 }
@@ -672,10 +672,10 @@
 
 @media (min-width: 992px) {
   .demo--new .demo-card__link:hover, .demo--new .demo-card__link:focus {
-    color: #000000;
+    color: #333132;
   }
   .demo--new .demo-card__link:hover svg, .demo--new .demo-card__link:focus svg {
-    fill: #000000;
+    fill: #333132;
   }
 }
 
@@ -691,7 +691,7 @@
 
 .demo--new .demo-card--coming .demo-card__image {
   background-color: #ffffff;
-  border: 1px solid #000000;
+  border: 1px solid #333132;
 }
 
 .demo--new .demo-card--coming .demo-card__image::before {
@@ -758,7 +758,7 @@
   padding-top: 27px;
   font-size: 20px;
   line-height: 140%;
-  color: #000000;
+  color: #333132;
   transition: color 0.3s ease;
 }
 
@@ -776,7 +776,7 @@
 }
 
 .demo-card__link svg {
-  fill: #000000;
+  fill: #333132;
   transition: fill 0.3s ease;
 }
 
