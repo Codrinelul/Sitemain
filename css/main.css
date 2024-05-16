@@ -1613,13 +1613,16 @@ a:hover, a:focus {
   display: inline-block;
   vertical-align: top;
   z-index: 0;
+  bottom: -5px;
+
 }
 
-.logo svg {
+.logo {
   display: inline-block;
   display: block;
   vertical-align: top;
-  fill: #0a0a0a;
+  fill: #333132;
+  
 }
 
 .logo[href]:hover, .logo[href]:focus {
@@ -9546,7 +9549,7 @@ a:hover, a:focus {
 /* 5.1 Header */
 .header {
   position: relative;
-  padding: 20px 0;
+  padding: 40px 0;
   z-index: 2;
 }
 
