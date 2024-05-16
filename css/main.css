@@ -157,7 +157,7 @@ body {
   min-height: 100vh;
   padding: 0;
   margin: 0;
-  font-family: "Neue Montreal", "Arial", sans-serif;
+  font-family: "NeueHaasDisplay", "Arial", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
@@ -287,31 +287,31 @@ a:hover, a:focus {
 
 /* 1.2  Typography */
 @font-face {
-  src: url("../fonts/NeueMontreal-Regular.woff2") format("woff2"), url("../fonts/NeueMontreal-Regular.woff") format("woff");
-  font-family: "Neue Montreal";
+  src: url("../fonts/NeueHaasDisplay-Roman.woff2") format("woff2"), url("../fonts/NeueHaasDisplay-Roman.woff") format("woff");
+  font-family: "NeueHaasDisplay";
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  src: url("../fonts/NeueMontreal-Medium.woff2") format("woff2"), url("../fonts/NeueMontreal-Medium.woff") format("woff");
-  font-family: "Neue Montreal";
+  src: url("../fonts/NeueHaasDisplay-Mediu.woff2") format("woff2"), url("../fonts/NeueHaasDisplay-Mediu.woff") format("woff");
+  font-family: "NeueHaasDisplay";
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  src: url("../fonts/NeueMontreal-Italic.woff2") format("woff2"), url("../fonts/NeueMontreal-Italic.woff") format("woff");
-  font-family: "Neue Montreal";
+  src: url("../fonts/NeueHaasDisplay-LightItalic.woff2") format("woff2"), url("../fonts/NeueHaasDisplay-LightItalic.woff") format("woff");
+  font-family: "NeueHaasDisplay";
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  src: url("../fonts/Gilroy-Regular.woff2") format("woff2"), url("../fonts/Gilroy-Regular.woff") format("woff");
+  src: url("../fonts/NeueHaasDisplay-Roman.woff2") format("woff2"), url("../fonts/NeueHaasDisplay-Roman.woff") format("woff");
   font-family: "Gilroy";
   font-weight: 400;
   font-style: normal;
@@ -319,7 +319,7 @@ a:hover, a:focus {
 }
 
 @font-face {
-  src: url("../fonts/Gilroy-Bold.woff2") format("woff2"), url("../fonts/Gilroy-Bold.woff") format("woff");
+  src: url("../fonts/NeueHaasDisplay-Bold.woff2") format("woff2"), url("../fonts/NeueHaasDisplay-Bold.woff") format("woff");
   font-family: "Gilroy";
   font-weight: 700;
   font-style: normal;
@@ -1065,7 +1065,7 @@ a:hover, a:focus {
      -moz-appearance: none;
           appearance: none;
   padding: 0 0 14px;
-  font-family: "Neue Montreal", "Arial", sans-serif;
+  font-family: "NeueHaasDisplay", "Arial", sans-serif;
   font-size: 16px;
   line-height: 1;
   color: #000000;
@@ -1849,7 +1849,7 @@ a:hover, a:focus {
   top: -21px;
   left: 18px;
   display: block;
-  font-family: "Neue Montreal", "Arial", sans-serif;
+  font-family: "NeueHaasDisplay", "Arial", sans-serif;
   font-size: 70px;
   font-weight: 600;
   line-height: 70px;
@@ -2200,7 +2200,7 @@ a:hover, a:focus {
           appearance: none;
   padding: 0;
   margin-right: 20px;
-  font-family: "Neue Montreal", "Arial", sans-serif;
+  font-family: "NeueHaasDisplay", "Arial", sans-serif;
   font-size: 18px;
   line-height: 1.5;
   color: #000000;
@@ -3951,7 +3951,7 @@ a:hover, a:focus {
 }
 
 .accordion--black .accordion__item-title {
-  font-family: "Neue Montreal", "Arial", sans-serif;
+  font-family: "NeueHaasDisplay", "Arial", sans-serif;
 }
 
 .accordion--black .accordion__item-title span {
